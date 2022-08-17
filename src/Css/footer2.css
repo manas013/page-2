@@ -1,0 +1,39 @@
+.footer2 {
+    width: 100%;
+    background-color: #333;
+    padding-top: 48px;
+    color: #fff;
+}
+.top{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.inner{
+    margin-right: 61px;
+}
+.menu{
+    margin-bottom: 20px;
+    font-size: 15px;
+    margin-left: 45px;
+}
+.icon2 {
+    margin-left: 64px;
+    margin-bottom: 0 px;
+}
+.footer2 ul{
+    list-style-type: none;
+}
+.footer2 ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+.btn1{
+    border: 3px solid #48bc25;
+    border-radius: 3.5px;
+    padding: 6px 20px;
+    color: white;
+    cursor: pointer;
+    background-color: #48bc25;
+}

@@ -1,0 +1,47 @@
+.second_middle {
+    width: 100%;
+    background-color: #fff;
+}
+.second_middle h1 {
+    text-align: center;
+    font-family: 'Actual';
+    font-style: inherit;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+    color: #333333;
+    padding: 84px;
+    margin: opx;
+    margin: 0px;
+}
+
+.second_middle p {
+    width: 435px;
+    font-family: 'Actual';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    /* line-height: 18px; */
+    text-align: center;
+    color: #666666;
+    margin-left: 407px;
+    margin-top: -75px;
+
+}
+.token{
+    display: flex;
+    padding: 60px 0px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#text_aline{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #666666;
+}
+ 

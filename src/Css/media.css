@@ -1,0 +1,48 @@
+#divide_left_img{
+    margin: 10px;
+}
+#divide_buttom{
+    width: 67px;
+    margin: 5px;
+}
+#divide_text{
+    font-family: 'Actual';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #666666;
+margin: 15px -121px;
+}
+@media screen and (max-width:320px) {
+    #divide_text{
+        font-family: 'Actual';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 8px;
+        line-height: 15px;
+        /* identical to box height */
+        
+        
+        color: #666666;
+        margin: 14px -100px;
+    
+    }
+    }
+    /* @media screen and (max-width:768px) {
+        #divide_text{
+            font-family: 'Actual';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        /* identical to box height */
+        
+        
+        /* color: #666666;
+        margin: 14px -113px; */
+        /* } */
+        /* } */ 
