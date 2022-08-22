@@ -69,7 +69,7 @@
 }
 .bottom{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 .content_1{
     max-width: 200px;
